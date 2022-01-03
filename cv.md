@@ -10,7 +10,7 @@ I am a novice programmer. I like getting knowledge about evrything, but programm
 
 Bachelor of biology
 
-##Code example:
+## Code example:
 
 ```
 function multiply(a,b){
@@ -23,7 +23,7 @@ function multiply(a,b){
 * Adress: Lomonosova st., 13, Nizhnii Novgorod, Russia
 * Phone: +79877587670
 * e-mail: sergiomarkoni@gmail.com
-* Discord: Sergei
+* Discord: Sergei (@Sergiomarkoni)
 
 
 
