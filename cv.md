@@ -1,4 +1,4 @@
-![My foto](rsschool-cv/img/my_foto2.png "My foto")
+![My foto](img/my_foto2.png "My foto")
 
 #Markov Sergei
 
@@ -10,7 +10,16 @@ I am a novice programmer. I like getting knowledge about evrything, but programm
 
 Bachelor of biology
 
-##Code example
+##Code example:
+
+```
+function multiply(a,b){
+  return a*b;
+}
+```
+##Language level:
+
+Intermediate
 
 ##Contact details
 *Adress: Lomonosova st., 13, Nizhnii Novgorod, Russia
