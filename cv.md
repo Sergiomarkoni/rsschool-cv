@@ -1,10 +1,10 @@
 ![My foto](img/my_foto2.png "My foto")
 
-#Markov Sergei
+# Markov Sergei
 
 I am a novice programmer. I like getting knowledge about evrything, but programming is my passion.
 
-##Education history
+## Education history
 
 1996-2000 Lobachevsky State University of Nizhny Novgorod
 
@@ -17,15 +17,13 @@ function multiply(a,b){
   return a*b;
 }
 ```
-##Language level:
+## Language level: Intermediate
 
-Intermediate
-
-##Contact details
-*Adress: Lomonosova st., 13, Nizhnii Novgorod, Russia
-*Phone: +79877587670
-*e-mail: sergiomarkoni@gmail.com
-*Discord: Sergei
+## Contact details
+* Adress: Lomonosova st., 13, Nizhnii Novgorod, Russia
+* Phone: +79877587670
+* e-mail: sergiomarkoni@gmail.com
+* Discord: Sergei
 
 
 
